@@ -22,13 +22,16 @@ ___
 ![img_2](https://github.com/Arkady1996/selinux/blob/main/images/1.2.png)
 ![img_3](https://github.com/Arkady1996/selinux/blob/main/images/1.3.png)
 ![img_4](https://github.com/Arkady1996/selinux/blob/main/images/1.4.png)
-<p>1.2 Добавление нестандартного порта в имеющийся тип</p>
+
+1.2 Добавление нестандартного порта в имеющийся тип
 ![img_5](https://github.com/Arkady1996/selinux/blob/main/images/2.1.png))
 ![img_6](https://github.com/Arkady1996/selinux/blob/main/images/2.2.png)
-<p>1.3 формирование и установка модуля SELinux</p>
+
+1.3 формирование и установка модуля SELinux
 ![img_7](https://github.com/Arkady1996/selinux/blob/main/images/3.1.png)
 ![img_8](https://github.com/Arkady1996/selinux/blob/main/images/3.2.png)
-<p>2.1 Обеспечить работоспособность приложения при включенном selinux</p>
+
+2.1 Обеспечить работоспособность приложения при включенном selinux
 ![img_9](https://github.com/Arkady1996/selinux/blob/main/images/4.1.png)
 ![img_10](https://github.com/Arkady1996/selinux/blob/main/images/4.2.png)
 ![img_11](https://github.com/Arkady1996/selinux/blob/main/images/4.3.png)
